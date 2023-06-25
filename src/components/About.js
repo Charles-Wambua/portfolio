@@ -24,7 +24,7 @@ export const About = () => {
         whileInView={"show"}
         viewport={{ once: false, amount: 0.3 }}
         className="about-me">
-        <img src="/mern2.PNG" alt="image" />
+        <img src="/mern2.png" alt="image" />
       </motion.div>
     </div>
   );
